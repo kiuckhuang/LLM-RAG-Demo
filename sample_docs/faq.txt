@@ -1,0 +1,86 @@
+Frequently Asked Questions
+=========================
+
+General Questions
+-----------------
+
+Q1: What is RAGTech?
+A1: RAGTech is a technology company that specializes in developing innovative software solutions for businesses worldwide. Founded in 2010, we help organizations transform their operations through cutting-edge technology.
+
+Q2: Where is RAGTech located?
+A2: Our global headquarters is located in San Francisco, California. We also have regional offices in New York, London, Tokyo, and Bangalore.
+
+Q3: What industries do you serve?
+A3: We serve a wide range of industries including finance, healthcare, manufacturing, retail, and telecommunications. Our solutions are designed to be adaptable to various business needs.
+
+Product Questions
+-----------------
+
+Q4: What products does RAGTech offer?
+A4: We offer three main categories of products:
+   1. Enterprise Software Solutions (CRM, ERP, Business Intelligence)
+   2. Cloud Services (IaaS, PaaS, SaaS)
+   3. Consulting Services (Digital Transformation, IT Strategy)
+
+Q5: What is the TechFlow Enterprise Suite?
+A5: TechFlow Enterprise Suite is our flagship product - a comprehensive business management software designed to streamline operations and provide actionable insights for enterprise organizations.
+
+Q6: Do you offer cloud-based solutions?
+A6: Yes, we offer a full range of cloud services including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+
+Support Questions
+-----------------
+
+Q7: How can I get technical support?
+A7: You can contact our support team 24/7 through:
+   - Email: support@ragtech.demo
+   - Phone: +852 1234 8899
+   - Online chat: Available on our website
+
+Q8: Do you provide training for your products?
+A8: Yes, we offer comprehensive training programs including:
+   - Online tutorials and documentation
+   - Instructor-led workshops
+   - Certification programs
+   - On-site training for enterprise clients
+
+Q9: What are your support hours?
+A9: Our technical support team is available 24/7 for critical issues. Standard support hours are Monday through Friday, 8:00 AM to 8:00 PM PST.
+
+Billing Questions
+-----------------
+
+Q10: How do I pay for RAGTech services?
+A10: We accept payments through credit card, bank transfer, and PayPal. Enterprise clients can also opt for invoiced billing with net 30 payment terms.
+
+Q11: Can I get a refund if I'm not satisfied?
+A11: We offer a 30-day money-back guarantee on all our software products. For cloud services, refunds are prorated based on usage.
+
+Q12: Do you offer discounts for non-profit organizations?
+A12: Yes, we provide special pricing for qualified non-profit organizations. Please contact our sales team for more information.
+
+Partnership Questions
+---------------------
+
+Q13: How can I become a RAGTech partner?
+A13: We have several partnership programs available:
+   - Technology partners
+   - Reseller partners
+   - Consulting partners
+   For more information, visit our Partners page or email partnerships@RAGTech.com
+
+Q14: Do you have an affiliate program?
+A14: Yes, we offer an affiliate program that allows individuals and organizations to earn commissions by referring customers to RAGTech. Contact our partnership team for details.
+
+Privacy and Security Questions
+------------------------------
+
+Q15: How do you protect customer data?
+A15: We implement industry-standard security measures including:
+   - End-to-end encryption
+   - Regular security audits
+   - GDPR compliance
+   - SOC 2 Type II certification
+
+Q16: Where is customer data stored?
+A16: Customer data is stored in secure data centers located in the United States, European Union, and Asia-Pacific regions. Customers can select their preferred region during setup.
